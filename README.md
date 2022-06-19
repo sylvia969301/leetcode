@@ -19,7 +19,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy |  |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
@@ -94,7 +94,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 |:----:|:----|:-----:|:-----:|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy |  |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | V |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy |  |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy |  |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
@@ -118,7 +118,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy |  |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy |  |
