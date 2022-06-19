@@ -9,10 +9,10 @@ using namespace std;
     - Use the recursive way: calling mergeTrees function recursively.
     - Use Preorder traversal, i.e.,DFS(Depth-First Search) to traverse two given binary trees.
 * [Complexity]
-    - Time : O(m). Minimum number m of nodes from two given binary trees, total m*m nodes need to be traversed.
+    - Time : O(n). for minimum number n of nodes from two given binary trees.
     - Space : 
-        - Worst case is O(m), if skewed binary tree.
-        - Average case is O(log m), since the depth of a complete/balanced binary tree which has m nodes is log(m).
+        - Worst case is O(n), if skewed binary tree.
+        - Best case is O(log n), since the depth of a complete/balanced binary tree which has n nodes is log(n).
 */
 
 struct TreeNode {
