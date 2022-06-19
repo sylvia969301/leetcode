@@ -10,7 +10,6 @@ using namespace std;
             - If L > R : return nullptr, since it's a wrong range.
             - If L <= R : find the middle node of the array/subarray by calculating middle = 'L + (R-L)/2'.
                 return a new node which value equals to input_array[middle].
-            - 
     [Complexity]
         - Time : O(n) as traversed all of the nodes in the given array which has n elements.
         
