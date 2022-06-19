@@ -2,14 +2,15 @@
 #include <vector>
 using namespace std;
 
-/*  [Problem] Given an sorted array in ascending order, return a height-balanced BST.
+/*  [Problem] Given an sorted array in an ascending order, return a height-balanced BST and print all of the nodes by preorder(DFS).
 *   [Idea]
         - Recursively call the 'BST' function : cutting the array into two subarrays by the middel node, further construct two BSTs repectively.
         - While doing things mentioned above, always keep the height of BST balanced:
-            - Let L = left boundary of an array ; Let R = right  of an array.
-            - If L > R : return, since it's a wrong range.
-            - If L == R : return a new node which value equals to Array[L].
-            - Find the middle node of the array/subarray by calculating middle = '( L + (R-L)) /2'.
+            - Let L = left boundary of an array ; Let R = right boundary of an array.
+            - If L > R : return nullptr, since it's a wrong range.
+            - If L <= R : find the middle node of the array/subarray by calculating middle = 'L + (R-L)/2'.
+                return a new node which value equals to input_array[middle].
+            - 
     [Complexity]
         - Time : O(n) as traversed all of the nodes in the given array which has n elements.
         
