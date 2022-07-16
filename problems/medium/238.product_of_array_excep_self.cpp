@@ -15,7 +15,7 @@ using namespace std;
         - Return extra array as the answer.
     [Complexity]
         - Time : O(n)
-        - Space : O(n)
+        - Space : O(n). BUT!! May have a solution improve from O(n) to O(1), consider a extra variable only. Will update this solution soon.
 */
 
 class Solution{
@@ -43,7 +43,7 @@ int main(){
     Solution solution;
     vector<int> ans = solution.productExceptSelf(nums);
     for(auto num: ans){
-        cout << "  " << num;
+        cout << "  " << num; //Should return 24  12  8  6
     }
     cout << endl;
     return 0;
