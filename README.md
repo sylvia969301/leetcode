@@ -8,7 +8,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 1629| [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | V |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy |  |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy |  |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy |  |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy |  |
@@ -96,7 +96,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy |  |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy |  |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | V | *
