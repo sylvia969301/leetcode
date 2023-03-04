@@ -79,7 +79,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium |  |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium |  |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium |  |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium |  |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | V |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |  |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium |  |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium |  |
