@@ -43,7 +43,7 @@ public:
             ListNode * nextNode = new ListNode(sum%10);
             pointer->next = nextNode;
             pointer = pointer->next;
-        }
+        } 
         return result->next;
     }
 
