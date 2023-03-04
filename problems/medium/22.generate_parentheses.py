@@ -2,7 +2,7 @@
         - Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
 *   [Idea]
-        - Use Depth First Tree method to generate parentheses.
+        - Use "Depth First Search (DFS)" method to generate parentheses.
     [Complexity]
         - Time : O(n^2).
         - Space : O(n^2).
