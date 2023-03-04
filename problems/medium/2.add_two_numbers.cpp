@@ -1,3 +1,5 @@
+#include <stddef.h>
+using namespace std;
 /*  [Problem]
         - Given 2 non-empty linked list contain non-negative integer.
         - Digits are store in reverse order. Each code contains a single digit.
