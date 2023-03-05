@@ -99,7 +99,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy |  |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | V | *
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
