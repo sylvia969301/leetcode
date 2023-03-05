@@ -88,6 +88,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |  |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium |  |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
 
 ## Top Interview Questions(Easy)
 
