@@ -29,6 +29,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | Easy |  |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | V |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Medium |  |
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
@@ -131,7 +132,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
 | 20 | [alid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |  |
-| 125 | [alid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy |  |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy |  |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |  |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
