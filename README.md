@@ -107,7 +107,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy |  |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy |  |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |  |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy |  |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy |  |
