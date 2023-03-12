@@ -141,6 +141,8 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
 ## LeetCode 75
+| # | Title | Difficulty | Completed |
+|:----:|:----|:-----:|:-----:|
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
 
 ## Essential Concepts
