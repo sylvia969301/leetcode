@@ -140,6 +140,9 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |  |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
+## LeetCode 75
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
+
 ## Essential Concepts
 
 * Data Structure:
