@@ -29,7 +29,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy |  |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |  |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy |  |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy |  |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
@@ -124,7 +124,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |  |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy |  |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy |  |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy |  |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy |  |
