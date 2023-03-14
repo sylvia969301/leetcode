@@ -33,7 +33,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Medium |  |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium |  |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium |  |
