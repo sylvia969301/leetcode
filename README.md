@@ -6,7 +6,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 |:----:|:----|:-----:|:-----:|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
-
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | V |
 ## Top Liked Questions
 
 | # | Title | Difficulty | Completed |
