@@ -7,6 +7,15 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | V |
+
+## LeetCode 75
+| # | Title | Difficulty | Completed |
+|:----:|:----|:-----:|:-----:|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
+
+
 ## Top Liked Questions
 
 | # | Title | Difficulty | Completed |
@@ -145,12 +154,6 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |  |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |  |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
-
-## LeetCode 75
-| # | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:|
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 
 
 
