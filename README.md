@@ -1,6 +1,12 @@
 # leetcode
 The journey of grinding [LeetCode](https://leetcode.com/).
 
+## Searching Algorithm
+| # | Title | Difficulty | Completed |
+|:----:|:----|:-----:|:-----:|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
+
 ## Top Liked Questions
 
 | # | Title | Difficulty | Completed |
@@ -147,10 +153,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 
 
-## Searching Algorithm
-| # | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:|
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
+
 
 
 ## Essential Concepts
