@@ -15,6 +15,10 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
 
+## Shortest Path 
+| # | Title | Difficulty | Completed |
+|:----:|:----|:-----:|:-----:|
+| 743 | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## Top Liked Questions
 
