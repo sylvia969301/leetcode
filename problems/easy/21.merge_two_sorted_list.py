@@ -41,7 +41,8 @@ class Solution(object):
                 list2 = list2.next
 
             pointer = pointer.next
-            if list1: pointer.next = list1
-            else: pointer.next = list2
+            
+        if list1: pointer.next = list1
+        else: pointer.next = list2
 
         return dummy.next
