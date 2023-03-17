@@ -1,5 +1,5 @@
 # leetcode
-The journey of grinding na | [LeetCode](https://leetcode.com/).
+The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 
 ## Algorithm I
 | # | Category | Title | Difficulty | Completed |
@@ -22,146 +22,146 @@ The journey of grinding na | [LeetCode](https://leetcode.com/).
 ## Shortest Path 
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:||:-----:|
-| 743 | na | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
+| 743 | tbd | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## Top Liked Questions
 
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:||:-----:|
-| 1629| na | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
-| 617 | na | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | V |
-| 104 | na | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
-| 136 | na | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
-| 226 | na | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | V |
-| 206 | na | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
-| 283 | na | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
-| 169 | na | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
-| 448 | na | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |  |
-| 21 | na | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
-| 121 | na | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
-| 543 | na | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy |  |
-| 70 | na | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
-| 53 | na | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
-| 101 | na | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
-| 1 | na | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
-| 437 | na | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
-| 198 | na | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
-| 155 | na | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
-| 141 | na | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
-| 20 | na | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
-| 234 | na | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
-| 160 | na | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
-| 581 | na | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | Easy |  |
-| 9 | na | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | V |
-| 338 | na | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
-| 406 | na | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
-| 739 | na | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
-| 94 | na | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
-| 46 | na | [Permutations](https://leetcode.com/problems/permutations) | Medium |  |
-| 22 | na | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
-| 647 | na | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | V |
-| 347 | na | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
-| 238 | na | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | V |
-| 78 | na | [Subsets](https://leetcode.com/problems/subsets) | Medium |  |
-| 48 | na | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium |  |
-| 39 | na | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium |  |
-| 49 | na | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium |  |
-| 287 | na | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium |  |
-| 215 | na | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
-| 102 | na | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium |  |
-| 62 | na | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium |  |
-| 64 | na | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium |  |
-| 337 | na | [House Robber III](https://leetcode.com/problems/house-robber-iii) | Medium |  |
-| 96 | na | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Medium |  |
-| 11 | na | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | V |
-| 394 | na | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
-| 621 | na | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium |  |
-| 114 | na | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium |  |
-| 494 | na | [Target Sum](https://leetcode.com/problems/target-sum) | Medium |  |
-| 105 | na | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium |  |
-| 309 | na | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium |  |
-| 17 | na | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium |  |
-| 200 | na | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium |  |
-| 75 | na | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium |  |
-| 279 | na | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | Medium |  |
-| 208 | na | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium |  |
-| 560 | na | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium |  |
-| 236 | na | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium |  |
-| 240 | na | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium |  |
-| 416 | na | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium |  |
-| 300 | na | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium |  |
-| 207 | na | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium |  |
-| 438 | na | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium |  |
-| 148 | na | [Sort List](https://leetcode.com/problems/sort-list) | Medium |  |
-| 139 | na | [Word Break](https://leetcode.com/problems/word-break) | Medium |  |
-| 56 | na | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium |  |
-| 221 | na | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium |  |
-| 142 | na | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | V |
-| 34 | na | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium |  |
-| 19 | na | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium |  |
-| 79 | na | [Word Search](https://leetcode.com/problems/word-search) | Medium |  |
-| 322 | na | [Coin Change](https://leetcode.com/problems/coin-change) | Medium |  |
-| 33 | na | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium |  |
-| 55 | na | [Jump Game](https://leetcode.com/problems/jump-game) | Medium |  |
-| 2 | na | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | V |
-| 138 | na | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |  |
-| 31 | na | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium |  |
-| 152 | na | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium |  |
-| 146 | na | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium |  |
-| 3 | na | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | V |
-| 5 | na | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | V |
-| 98 | na | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | V |
-| 15 | na | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
-| 16 | na | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
+| 1629 | tbd | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
+| 617 | tbd | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | V |
+| 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
+| 136 | tbd | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
+| 226 | tbd | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | V |
+| 206 | tbd | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
+| 283 | tbd | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
+| 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
+| 448 | tbd | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |  |
+| 21 | tbd | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
+| 121 | tbd | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
+| 543 | tbd | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy |  |
+| 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
+| 53 | tbd | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
+| 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
+| 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
+| 437 | tbd | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
+| 198 | tbd | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
+| 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
+| 141 | tbd | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
+| 20 | tbd | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
+| 234 | tbd | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
+| 160 | tbd | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
+| 581 | tbd | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | Easy |  |
+| 9 | tbd | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | V |
+| 338 | tbd | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
+| 406 | tbd | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
+| 739 | tbd | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
+| 94 | tbd | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
+| 46 | tbd | [Permutations](https://leetcode.com/problems/permutations) | Medium |  |
+| 22 | tbd | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
+| 647 | tbd | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | V |
+| 347 | tbd | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
+| 238 | tbd | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | V |
+| 78 | tbd | [Subsets](https://leetcode.com/problems/subsets) | Medium |  |
+| 48 | tbd | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium |  |
+| 39 | tbd | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium |  |
+| 49 | tbd | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium |  |
+| 287 | tbd | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium |  |
+| 215 | tbd | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
+| 102 | tbd | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium |  |
+| 62 | tbd | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium |  |
+| 64 | tbd | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium |  |
+| 337 | tbd | [House Robber III](https://leetcode.com/problems/house-robber-iii) | Medium |  |
+| 96 | tbd | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Medium |  |
+| 11 | tbd | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | V |
+| 394 | tbd | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
+| 621 | tbd | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium |  |
+| 114 | tbd | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium |  |
+| 494 | tbd | [Target Sum](https://leetcode.com/problems/target-sum) | Medium |  |
+| 105 | tbd | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium |  |
+| 309 | tbd | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium |  |
+| 17 | tbd | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium |  |
+| 200 | tbd | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium |  |
+| 75 | tbd | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium |  |
+| 279 | tbd | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | Medium |  |
+| 208 | tbd | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium |  |
+| 560 | tbd | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium |  |
+| 236 | tbd | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium |  |
+| 240 | tbd | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium |  |
+| 416 | tbd | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium |  |
+| 300 | tbd | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium |  |
+| 207 | tbd | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium |  |
+| 438 | tbd | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium |  |
+| 148 | tbd | [Sort List](https://leetcode.com/problems/sort-list) | Medium |  |
+| 139 | tbd | [Word Break](https://leetcode.com/problems/word-break) | Medium |  |
+| 56 | tbd | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium |  |
+| 221 | tbd | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium |  |
+| 142 | tbd | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | V |
+| 34 | tbd | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium |  |
+| 19 | tbd | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium |  |
+| 79 | tbd | [Word Search](https://leetcode.com/problems/word-search) | Medium |  |
+| 322 | tbd | [Coin Change](https://leetcode.com/problems/coin-change) | Medium |  |
+| 33 | tbd | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium |  |
+| 55 | tbd | [Jump Game](https://leetcode.com/problems/jump-game) | Medium |  |
+| 2 | tbd | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | V |
+| 138 | tbd | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |  |
+| 31 | tbd | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium |  |
+| 152 | tbd | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium |  |
+| 146 | tbd | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium |  |
+| 3 | tbd | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | V |
+| 5 | tbd | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | V |
+| 98 | tbd | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | V |
+| 15 | tbd | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
+| 16 | tbd | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
 
 ## Top Interview Questions(Easy)
 
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:||:-----:|
-| 344 | na | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
-| 104 | na | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
-| 237 | na | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
-| 136 | na | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
-| 206 | na | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
-| 412 | na | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
-| 108 | na | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | V | *
-| 169 | na | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
-| 242 | na | [alid Anagram](https://leetcode.com/problems/valid-anagram) | Easy |  |
-| 122 | na | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
-| 283 | na | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
-| 171 | na | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
-| 13 | na | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
-| 217 | na | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |  |
-| 21 | na | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
-| 118 | na | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy |  |
-| 268 | na | [Missing Number](https://leetcode.com/problems/missing-number) | Easy |  |
-| 191 | na | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy |  |
-| 387 | na | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy |  |
-| 350 | na | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy |  |
-| 121 | na | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
-| 202 | na | [Happy Number](https://leetcode.com/problems/happy-number) | Easy |  |
-| 70 | na | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
-| 101 | na | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
-| 53 | na | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
-| 26 | na | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
-| 1 | na | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
-| 155 | na | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
-| 160 | na | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
-| 141 | na | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
-| 66 | na | [Plus One](https://leetcode.com/problems/plus-one) | Easy |  |
-| 190 | na | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy |  |
-| 326 | na | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy |  |
-| 88 | na | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy |  |
-| 234 | na | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
-| 20 | na | [alid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
-| 172 | na | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |  |
-| 125 | na | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy |  |
-| 14 | na | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |  |
-| 28 | na | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
-| 69 | na | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
-| 204 | na | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |  |
-| 7 | na | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |  |
-| 230 | na | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
+| 344 | tbd | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
+| 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
+| 237 | tbd | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
+| 136 | tbd | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
+| 206 | tbd | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
+| 412 | tbd | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
+| 108 | tbd | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | V | *
+| 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
+| 242 | tbd | [alid Anagram](https://leetcode.com/problems/valid-anagram) | Easy |  |
+| 122 | tbd | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
+| 283 | tbd | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
+| 171 | tbd | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
+| 13 | tbd | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
+| 217 | tbd | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |  |
+| 21 | tbd | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
+| 118 | tbd | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy |  |
+| 268 | tbd | [Missing Number](https://leetcode.com/problems/missing-number) | Easy |  |
+| 191 | tbd | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy |  |
+| 387 | tbd | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy |  |
+| 350 | tbd | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy |  |
+| 121 | tbd | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
+| 202 | tbd | [Happy Number](https://leetcode.com/problems/happy-number) | Easy |  |
+| 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
+| 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
+| 53 | tbd | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
+| 26 | tbd | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
+| 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
+| 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
+| 160 | tbd | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
+| 141 | tbd | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
+| 66 | tbd | [Plus One](https://leetcode.com/problems/plus-one) | Easy |  |
+| 190 | tbd | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy |  |
+| 326 | tbd | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy |  |
+| 88 | tbd | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy |  |
+| 234 | tbd | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
+| 20 | tbd | [alid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
+| 172 | tbd | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |  |
+| 125 | tbd | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy |  |
+| 14 | tbd | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |  |
+| 28 | tbd | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
+| 69 | tbd | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
+| 204 | tbd | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |  |
+| 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |  |
+| 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
 
 
