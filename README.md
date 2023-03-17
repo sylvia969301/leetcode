@@ -21,13 +21,13 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 
 ## Shortest Path 
 | # | Category | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:||:-----:|
+|:----:|:----|:-----:|:-----:|:-----:|
 | 743 | tbd | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## Top Liked Questions
 
 | # | Category | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:||:-----:|
+|:----:|:----|:-----:|:-----:|:-----:|
 | 1629 | tbd | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
 | 617 | tbd | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | V |
 | 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
@@ -117,7 +117,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 ## Top Interview Questions(Easy)
 
 | # | Category | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:||:-----:|
+|:----:|:----|:-----:|:-----:|:-----:|
 | 344 | tbd | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
 | 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
 | 237 | tbd | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy |  |
