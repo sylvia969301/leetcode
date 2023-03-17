@@ -8,6 +8,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | V |
 | 977 | [Squares of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | V |
+| 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array) | Medium | V |
 
 ## LeetCode 75
 | # | Title | Difficulty | Completed |
