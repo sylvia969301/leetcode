@@ -1,15 +1,15 @@
 # leetcode
 The journey of grinding [LeetCode](https://leetcode.com/).
 
-## Searching Algorithm
+## Algorithm I
 | # | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | V |
 | 977 | [Squares of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | V |
-| 189 | [Rotate Array] (https://leetcode.com/problems/rotate-array) | Medium | V |
-| 167 | [Two Sum II - Input Array Is Sorted] (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy | V |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | V |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | V |
 
 ## LeetCode 75
 | # | Title | Difficulty | Completed |
@@ -33,7 +33,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | V |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy |  |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |  |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
@@ -127,7 +127,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
 | 242 | [alid Anagram](https://leetcode.com/problems/valid-anagram) | Easy |  |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy |  |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |  |
