@@ -47,7 +47,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy |  |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
@@ -147,7 +147,7 @@ The journey of grinding [LeetCode](https://leetcode.com/).
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy |  |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy |  |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy |  |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy |  |
