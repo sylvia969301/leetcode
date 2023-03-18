@@ -162,7 +162,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 28 | tbd | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
 | 69 | tbd | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
 | 204 | tbd | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |  |
-| 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |  |
+| 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium ** | V |
 | 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
 
