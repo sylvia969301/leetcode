@@ -18,6 +18,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 1480 | Prefix Sum | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
 | 724 | Prefix Sum |  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 | 205 | String | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
+| 392 | String | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | V |
 
 ## Shortest Path 
 | # | Category | Title | Difficulty | Completed |
