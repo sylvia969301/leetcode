@@ -39,7 +39,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 121 | tbd | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
 | 543 | tbd | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy |  |
 | 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
-| 53 | tbd | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
+| 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
 | 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
 | 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 437 | tbd | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
@@ -147,7 +147,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 202 | tbd | [Happy Number](https://leetcode.com/problems/happy-number) | Easy |  |
 | 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
 | 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
-| 53 | tbd | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |  |
+| 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
 | 26 | tbd | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
 | 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
