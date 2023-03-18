@@ -19,11 +19,12 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 724 | Prefix Sum |  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 | 205 | String | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
 | 392 | String | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | V |
+| 876 | Two pointers | [Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | V |
 
 ## Shortest Path 
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
-| 743 | tbd | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
+| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## Top Liked Questions
 
@@ -54,7 +55,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 160 | tbd | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
 | 581 | tbd | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | Easy |  |
 | 9 | tbd | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | V |
-| 338 | tbd | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
+| 338 | Bit Manipulation | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
 | 406 | tbd | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
 | 739 | tbd | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
 | 94 | tbd | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
