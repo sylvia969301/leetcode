@@ -11,6 +11,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 189 | Two Pointers | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | V |
 | 167 | Two Pointers | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | V |
 | 557 | Two Pointers | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | V |
+| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## LeetCode 75
 | # | Category | Title | Difficulty | Completed |
@@ -21,13 +22,8 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 392 | String | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | V |
 | 876 | Two pointers | [Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | V |
 
-## Shortest Path 
-| # | Category | Title | Difficulty | Completed |
-|:----:|:----|:-----:|:-----:|:-----:|
-| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
 
 ## Top Liked Questions
-
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
 | 1629 | tbd | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
@@ -116,8 +112,15 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 15 | tbd | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
 | 16 | tbd | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
 
-## Top Interview Questions(Easy)
+## Top Interview Questions(Medium)
+| # | Category | Title | Difficulty | Completed |
+|:----:|:----|:-----:|:-----:|:-----:|
+| 12 | tbd | [Integer To Roman]() | Medium | V |
+| 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium ** | V |
+| 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
+
+## Top Interview Questions(Easy)
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
 | 344 | tbd | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | V |
@@ -162,8 +165,6 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 28 | tbd | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
 | 69 | tbd | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
 | 204 | tbd | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |  |
-| 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium ** | V |
-| 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 
 
 
