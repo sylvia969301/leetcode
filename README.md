@@ -55,7 +55,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 406 | tbd | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
 | 739 | tbd | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
 | 94 | tbd | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
-| 46 | tbd | [Permutations](https://leetcode.com/problems/permutations) | Medium |  |
+| 46 | DFS, Backtracking | [Permutations](https://leetcode.com/problems/permutations) | Medium *** | V |
 | 22 | tbd | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
 | 647 | tbd | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | V |
 | 347 | tbd | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
@@ -96,7 +96,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 221 | tbd | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium |  |
 | 142 | tbd | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | V |
 | 34 | tbd | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium |  |
-| 19 | tbd | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium |  |
+| 19 | Linked List, Two Pointers | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | V |
 | 79 | tbd | [Word Search](https://leetcode.com/problems/word-search) | Medium |  |
 | 322 | tbd | [Coin Change](https://leetcode.com/problems/coin-change) | Medium |  |
 | 33 | tbd | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium |  |
