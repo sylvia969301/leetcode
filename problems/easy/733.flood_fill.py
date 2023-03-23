@@ -5,8 +5,8 @@
         - Use DFS (Depth First Search) to fill the color of given array of image representation.
         - From (sr, sc) expand around, until meet boundary conditions.
     [Complexity]
-        - Time : O(n), where n is the size of the given array.
-        - Space : O(1), since we change value in-space.
+        - Time : O(N*M), where N and M are the lengths of the sides of the given image.
+        - Space : O(L), where L is the size of largest continuous blocks in the given image.
 """
 
 class Solution(object):
