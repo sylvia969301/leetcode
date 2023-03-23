@@ -11,9 +11,9 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 189 | Two Pointers | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | V |
 | 167 | Two Pointers | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | V |
 | 557 | Two Pointers | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | V |
-| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium | V |
+| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium** | V |
 | 733 | DFS, Array | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | V |
-| 695 | DFS, Array | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | V |
+| 695 | DFS, Array | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium** | V |
 
 ## LeetCode 75
 | # | Category | Title | Difficulty | Completed |
@@ -29,7 +29,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
 | 1629 | tbd | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
-| 617 | tbd | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | V |
+| 617 | DFS, Binary Trees | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy** | V |
 | 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
 | 136 | tbd | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 226 | tbd | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | V |
