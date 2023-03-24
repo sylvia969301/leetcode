@@ -11,11 +11,12 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 189 | Two Pointers | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | V |
 | 167 | Two Pointers | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | V |
 | 557 | Two Pointers | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | V |
-| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium** | V |
+| 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium ** | V |
 | 733 | DFS, Array | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | V |
-| 695 | DFS, Array | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium** | V |
-| 116 | Recursion, Linked List | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | Medium** | V |
-| 542 | BFS, Dynamic Programming | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium** | V |
+| 695 | DFS, Array | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium ** | V |
+| 116 | Recursion, Linked List | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | Medium ** | V |
+| 542 | BFS, Dynamic Programming, Array | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium *** | V |
+| 994 | BFS, Array | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium *** | V |
 
 ## LeetCode 75
 | # | Category | Title | Difficulty | Completed |
@@ -31,7 +32,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
 | 1629 | tbd | [Slowest Key](https://leetcode.com/problems/slowest-key) | Easy | V |
-| 617 | DFS, Binary Trees | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy** | V |
+| 617 | DFS, Binary Trees | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy ** | V |
 | 104 | tbd | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | V |
 | 136 | tbd | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 226 | tbd | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | V |
@@ -133,7 +134,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 136 | tbd | [Single Number](https://leetcode.com/problems/single-number) | Easy | V |
 | 206 | tbd | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | V |
 | 412 | tbd | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
-| 108 | tbd | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | V | *
+| 108 | tbd | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy * | V | 
 | 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
 | 242 | tbd | [alid Anagram](https://leetcode.com/problems/valid-anagram) | Easy |  |
 | 122 | tbd | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
