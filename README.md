@@ -14,6 +14,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 743 | Shortest path | [Network Delay time](https://leetcode.com/problems/network-delay-time) | Medium** | V |
 | 733 | DFS, Array | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | V |
 | 695 | DFS, Array | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium** | V |
+| 116 | Recursion, Linked List | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | Medium** | V |
 
 ## LeetCode 75
 | # | Category | Title | Difficulty | Completed |
