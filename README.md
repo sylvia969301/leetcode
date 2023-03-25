@@ -41,7 +41,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
 | 448 | tbd | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |  |
 | 21 | tbd | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
-| 121 | tbd | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |  |
+| 121 | Dynamic Programming | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | V |
 | 543 | tbd | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy |  |
 | 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
 | 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
