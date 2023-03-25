@@ -28,6 +28,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 876 | Two pointers | [Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | V |
 | 121 | Dynamic Programming | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | V |
 | 409 | Hash Table | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy *** | V |
+| 589 | DFS, Stack | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy *** | V |
 
 
 ## Top Liked Questions
