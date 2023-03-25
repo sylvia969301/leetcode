@@ -26,6 +26,8 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 205 | String | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
 | 392 | String | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | V |
 | 876 | Two pointers | [Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | V |
+| 121 | Dynamic Programming | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | V |
+| 409 | Hash Table | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy *** | V |
 
 
 ## Top Liked Questions
