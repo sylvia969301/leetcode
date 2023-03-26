@@ -4,7 +4,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 ## Algorithm I
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
-| 704 | Binary Search | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | V |
+| 704 | Binary Search | [Binary Search](https://leetcode.com/problems/binary-search) | Easy * | V |
 | 278 | Binary Search | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
 | 35 | Binary Search | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | V |
 | 977 | Two Pointers | [Squares of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | V |
@@ -29,8 +29,9 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 121 | Dynamic Programming | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | V |
 | 409 | Hash Table | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy *** | V |
 | 589 | DFS, Stack | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy *** | V |
-
-
+| 704 | Binary Search, Array | [Binary Search](https://leetcode.com/problems/binary-search) | Easy * | V |
+| 278 | Binary Search | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | V |
+| 235 | DFS, Tree | [Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Medium | V |
 ## Top Liked Questions
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
@@ -62,7 +63,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 338 | Bit Manipulation | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | V |
 | 406 | tbd | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |  |
 | 739 | tbd | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium |  |
-| 94 | tbd | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | V |
+| 94 | DFS, Tree | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy *** | V |
 | 46 | DFS, Backtracking | [Permutations](https://leetcode.com/problems/permutations) | Medium *** | V |
 | 22 | tbd | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
 | 647 | tbd | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | V |
@@ -116,7 +117,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 146 | tbd | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium |  |
 | 3 | Hash Table, String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | V |
 | 5 | tbd | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | V |
-| 98 | tbd | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | V |
+| 98 | DFS, Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium *** | V |
 | 15 | tbd | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
 | 16 | tbd | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
 
