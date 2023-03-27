@@ -54,7 +54,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 70 | tbd | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy |  |
 | 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
 | 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
-| 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
+| 1 | Array | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 437 | tbd | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
 | 198 | tbd | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
 | 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
@@ -162,7 +162,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 101 | tbd | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |  |
 | 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
 | 26 | tbd | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
-| 1 | tbd | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
+| 1 | Hashing, Array | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
 | 160 | tbd | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
 | 141 | tbd | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
