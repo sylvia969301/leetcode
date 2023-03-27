@@ -21,7 +21,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 ## LeetCode 75
 | # | Category | Title | Difficulty | Completed |
 |:----:|:----|:-----:|:-----:|:-----:|
-| 217 | Unordered Set, Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | V |
+| 217 | Hashing, Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | V |
 | 1480 | Prefix Sum | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | V |
 | 724 | Prefix Sum |  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | V |
 | 205 | String | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | V |
@@ -144,12 +144,12 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 412 | tbd | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
 | 108 | tbd | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy * | V | 
 | 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
-| 242 | tbd | [alid Anagram](https://leetcode.com/problems/valid-anagram) | Easy |  |
+| 242 | String, Unordered Map | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | V |
 | 122 | tbd | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
 | 283 | tbd | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
 | 171 | tbd | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
 | 13 | tbd | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | V |
-| 217 | Unordered Set, Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | V |
+| 217 | Hashing, Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | V |
 | 21 | tbd | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | V |
 | 118 | tbd | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy |  |
 | 268 | tbd | [Missing Number](https://leetcode.com/problems/missing-number) | Easy |  |
