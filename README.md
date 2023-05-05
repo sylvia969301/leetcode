@@ -76,7 +76,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 78 | tbd | [Subsets](https://leetcode.com/problems/subsets) | Medium |  |
 | 48 | tbd | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium |  |
 | 39 | tbd | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium |  |
-| 49 | tbd | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium |  |
+| 49 | String, Hashing, Unordered Map | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | V |
 | 287 | tbd | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium |  |
 | 215 | tbd | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
 | 102 | Tree, Queue | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium *** | V |
@@ -144,7 +144,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 412 | tbd | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy |  |
 | 108 | tbd | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy * | V | 
 | 169 | tbd | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |  |
-| 242 | String, Unordered Map | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | V |
+| 242 | String, Hashing, Unordered Map | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | V |
 | 122 | tbd | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |  |
 | 283 | tbd | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | V |
 | 171 | tbd | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |  |
@@ -173,7 +173,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 234 | tbd | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
 | 20 | tbd | [alid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
 | 172 | tbd | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |  |
-| 125 | tbd | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy |  |
+| 125 | Two pointers | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | V |
 | 14 | tbd | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |  |
 | 28 | tbd | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |  |
 | 69 | tbd | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |  |
