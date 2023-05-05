@@ -171,7 +171,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 326 | tbd | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy |  |
 | 88 | tbd | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy |  |
 | 234 | tbd | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
-| 20 | tbd | [alid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
+| 20 | Stack | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | V |
 | 172 | tbd | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |  |
 | 125 | Two pointers | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | V |
 | 14 | tbd | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |  |
