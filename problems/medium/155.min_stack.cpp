@@ -1,3 +1,5 @@
+#include <stack>
+using namespace std;
 class MinStack {
 public:
     /** initialize your data structure here. */
@@ -30,4 +32,4 @@ public:
         if(s1.empty())return -1;
         return s2.top();
     }
-};
+};  
