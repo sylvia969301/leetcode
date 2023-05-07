@@ -57,7 +57,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 1 | Array | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
 | 437 | tbd | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy |  |
 | 198 | tbd | [House Robber](https://leetcode.com/problems/house-robber) | Easy |  |
-| 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
+| 155 | Stack | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | V |
 | 141 | tbd | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
 | 20 | tbd | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy |  |
 | 234 | tbd | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy |  |
@@ -164,7 +164,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 53 | DP | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | V |
 | 26 | tbd | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |  |
 | 1 | Hashing, Array | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | V |
-| 155 | tbd | [Min Stack](https://leetcode.com/problems/min-stack) | Easy |  |
+| 155 | Stack | [Min Stack](https://leetcode.com/problems/min-stack) | Medium | V |
 | 160 | tbd | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy |  |
 | 141 | tbd | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | V |
 | 66 | tbd | [Plus One](https://leetcode.com/problems/plus-one) | Easy |  |
