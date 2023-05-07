@@ -131,6 +131,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 12 | tbd | [Integer To Roman]() | Medium | V |
 | 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium ** | V |
 | 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
+| 36 | Arrays, Hashing | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium * | V |
 
 
 ## Top Interview Questions(Easy)
