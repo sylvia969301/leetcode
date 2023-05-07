@@ -122,7 +122,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 3 | Hash Table, String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | V |
 | 5 | tbd | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | V |
 | 98 | DFS, Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium *** | V |
-| 15 | tbd | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
+| 15 | Two pointers | [3Sum](https://leetcode.com/problems/3sum) | Medium | V |
 | 16 | tbd | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | V |
 
 ## Top Interview Questions(Medium)
