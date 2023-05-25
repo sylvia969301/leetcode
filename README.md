@@ -72,7 +72,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 22 | tbd | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | V |
 | 647 | tbd | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | Medium | V |
 | 347 | tbd | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
-| 238 | tbd | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | V |
+| 238 | Arrays | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | V |
 | 78 | tbd | [Subsets](https://leetcode.com/problems/subsets) | Medium |  |
 | 48 | tbd | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium |  |
 | 39 | tbd | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium |  |
@@ -132,6 +132,7 @@ The journey of grinding tbd | [LeetCode](https://leetcode.com/).
 | 7 | tbd | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium ** | V |
 | 230 | tbd | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium |  |
 | 36 | Arrays, Hashing | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium * | V |
+| 74 | Binary Search | [Search In A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium *** | V |
 
 
 ## Top Interview Questions(Easy)
